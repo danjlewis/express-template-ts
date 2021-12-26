@@ -1,0 +1,6 @@
+{
+    "logging": {
+        "lang": "en",
+        "logFolder": "./logs"
+    }
+}
